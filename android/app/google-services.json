@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "211912579911",
+    "project_id": "willow-7c049",
+    "storage_bucket": "willow-7c049.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211912579911:android:fbac3242bbce9a4d7f4a62",
+        "android_client_info": {
+          "package_name": "com.frankie.willow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcxPzZVz7QtBSi9_OxSO5Uk4ipkesBY7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
